@@ -69,3 +69,6 @@ Login/Register Section
 ![Screenshot 2022-11-10 042605](https://user-images.githubusercontent.com/91875052/200960076-4274b45b-44c1-46ab-bffd-e2a1a539c4e8.png)
 Code of Login Page
 ![Screenshot 2022-11-10 042908](https://user-images.githubusercontent.com/91875052/200960336-921ef276-7bf1-4c47-8fdd-ec99c457adbd.png)
+
+Main Page
+![Screenshot 2022-11-10 042139](https://user-images.githubusercontent.com/91875052/200960470-7c789f66-9267-461d-bb49-ee01db798e2d.png)
