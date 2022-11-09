@@ -15,3 +15,6 @@ One is login / Register section , And other one is main page where is our main c
 - Express
 - Node js
 - Netlify
+
+## 🛠 Skills
+Javascript, HTML, CSS, React js , Tailwindcss , Mongodb...
