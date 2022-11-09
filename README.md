@@ -18,3 +18,47 @@ One is login / Register section , And other one is main page where is our main c
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React js , Tailwindcss , Mongodb...
+
+
+## Installation
+
+Creact React App
+
+```bash
+  npx create-react-app car-selling-app
+  cd car-selling-app
+```
+Intalling Tailwindcss
+```bash
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+```
+Intalling React-icons
+```bash
+  npm install react-icons --save
+```
+
+Intalling React-router-dom
+```bash
+  npm i react-router-dom
+```
+Intalling Mongodb
+```bash
+  npm i mongodb
+```
+Start React
+```bash
+  npm start
+```
+Run React
+```bash
+  npm run
+```
+Test react
+```bash
+  npm test
+```
+Build React
+```bash
+npm run build
+```
