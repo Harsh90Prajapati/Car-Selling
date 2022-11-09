@@ -65,4 +65,6 @@ npm run build
 
 ## Screenshots
 # Frontend
+Login/Register Section
+![Screenshot 2022-11-10 042605](https://user-images.githubusercontent.com/91875052/200960076-4274b45b-44c1-46ab-bffd-e2a1a539c4e8.png)
 
