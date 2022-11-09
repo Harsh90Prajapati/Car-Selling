@@ -1,0 +1,45 @@
+[{
+    "id":1,
+    "name":"Hyundai Venue",
+    "rate":"₹ 7.53 Lakh",
+    "milage":"17.5 to 23.4 kmpl",
+    "fuel_type":"petrol & Diesel",
+    "image":"https://images.dealer.com/ddc/vehicles/2020/Hyundai/Venue/SUV/perspective/front-left/2020_24.png"
+
+},
+{
+    "id":2,
+    "name":"Tata Nexon",
+    "rate":"₹ 7.69 Lakh",
+    "milage":"16.5 to 22 kmpl",
+    "fuel_type":"petrol & Diesel",
+    "image":"https://imgd.aeplcdn.com/1200x900/n/cw/ec/42611/tata-nexon-ev-right-front-three-quarter6.jpeg?q=85"
+
+},
+{
+    "id":3,
+    "name":"Maruti Grand Vitara",
+    "rate":"₹ 10.45 Lakh",
+    "milage":"20.5 to 27.97 kmpl",
+    "fuel_type":"electric + petrol",
+    "image":"http://i.ndtvimg.com/auto/makers/29/200/maruti-suzuki.jpg"
+
+},
+{
+    "id":4,
+    "name":"Mahindra Thar",
+    "rate":"₹ 13.58 Lakh",
+    "milage":"13.5 to 14.4 kmpl",
+    "fuel_type":"petrol & Diesel",
+    "image":"https://cdni.autocarindia.com/ExtraImages/20200920023729_2020-Mahindra-Thar-red-studio.jpg"
+
+},{
+    "id":5,
+    "name":"Kia Carens",
+    "rate":"₹ 10.00 Lakh",
+    "milage":"15.7 to 21.3 kmpl",
+    "fuel_type":"petrol & Diesel",
+    "image":"https://cdn.nettiauto.com/live/10172477/KIA-Carens-5e9bd7bddbe04ab8-large.jpg"
+
+}
+]
