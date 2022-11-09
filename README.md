@@ -1,3 +1,3 @@
 # Car-Selling
-#Frontend version:0.1.0
-#Dependencies axios,react,react-dom,react-icons,react-redux,react-router-dom,react-scripts,autoprefixer,postcss,tailwindcss
+Its a basically assesment project . In which having two sections  .
+One is login / Register section , And other one is main page where are our main content of the webapp.
